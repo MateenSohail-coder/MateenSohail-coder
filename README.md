@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1 style="color: #F59F00; font-size: 48px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);">Abdul Mateen</h1>
-  <h3 style="color: #FDFDFD;">🌟 Passionate MERN Stack Developer from Pakistan</h3>
+  <h3 style="color: #FDFDFD;">Passionate MERN Stack Developer from Pakistan</h3>
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white&color=F59F00" height="35"/>
 </div>
 
-## 🚀 Featured Project
+## ❥ Featured Project
 
 <div align="center">
   <a href="https://myportfolio-abdulmateen.vercel.app/">
@@ -31,7 +31,7 @@
   </p>
 </div>
 
-## 🛠️ Tech Stack
+## ❥ Tech Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,figma,postman" />
 </div>
@@ -41,7 +41,7 @@
   <p style="color: #FDFDFD; font-size: 18px;">am.coders.web@gmail.com</p>
 </div>
 
-## 🔗 Connect With Me
+## ❥ Connect With Me
 <div align="center">
   <a href="https://www.topcoder.com/members/899202">
     <img src="https://img.shields.io/badge/Topcoder-0070BA?style=for-the-badge&logo=topcoder&logoColor=white&color=F59F00" height="35"/>
