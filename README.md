@@ -25,9 +25,9 @@
 
 
 <div align="center">
-  <h3 style="color: #F59F00;">🌱 Currently Learning</h3>
+  <h3 style="color: #F59F00;"> Currently Learning</h3>
   <p style="color: #FDFDFD; font-size: 20px;">
-    Vue 3 • Vue 4  • GSAP Animations
+     • Framer Motion  • GSAP Animations
   </p>
 </div>
 
