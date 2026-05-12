@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <h3 style="color: #F59F00;">📫 Contact Me</h3>
+  <h3 style="color: #F59F00;"> Contact Me</h3>
   <p style="color: #FDFDFD; font-size: 18px;">am.coders.web@gmail.com</p>
 </div>
 
@@ -53,5 +53,5 @@
 </div>
 
 <div align="center">
-  <sub><i>✨ Built with passion from Lahore, Pakistan 🇵🇰</i></sub>
+  <sub><i>❣ Built with passion from Lahore, Pakistan 🇵🇰</i></sub>
 </div>
