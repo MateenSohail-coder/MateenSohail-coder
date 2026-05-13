@@ -27,7 +27,7 @@
 <div align="center">
   <h3 style="color: #F59F00;"> Currently Learning</h3>
   <p style="color: #FDFDFD; font-size: 20px;">
-     • Framer Motion  • GSAP Animations
+  • Redux • RTK Query   • GSAP Animations
   </p>
 </div>
 
